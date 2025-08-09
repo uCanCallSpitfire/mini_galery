@@ -1,18 +1,24 @@
-
 body {
-  background-color: #121212; /* koyu siyah ton */
-  color: #e0e0e0; /* açık gri yazı */
+  background-color: #121212;
+  /* koyu siyah ton */
+  color: #e0e0e0;
+  /* açık gri yazı */
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 
 footer {
+<<<<<<< HEAD
   background-color: #d3d3d3; 
   color: #f8f8f8; 
+=======
+  background-color: #d3d3d3;
+  color: #f8f8f8;
+>>>>>>> f8cd4da (data.json ve styles.css güncellendi)
   padding: 15px 10px;
   text-align: center;
   font-size: 14px;
-  border-top: 1px solid #aaa; 
+  border-top: 1px solid #aaa;
 
 }
 
@@ -26,7 +32,7 @@ footer {
 }
 
 footer a {
-  color: #222; 
+  color: #222;
   text-decoration: none;
 }
 
